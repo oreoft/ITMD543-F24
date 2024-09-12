@@ -9,11 +9,12 @@ deployment.
 
 Repository URL: https://github.com/oreoft/ITMD543-F24/Lab1
 <br>
-Deployment Success Page: 
+Deployment Success Page: https://mango-field-05648540f.5.azurestaticapps.net/
 
 ## Deployment
 
-![img.png](img.png)
+![img.png](img/img.png)
+![img.png](img/img_1.png)
 <center>Pushing to GitHub will automatically trigger the build.</center>
 
 
