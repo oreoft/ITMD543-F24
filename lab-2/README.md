@@ -12,6 +12,10 @@ The project is built using standard web technologies—HTML, CSS, and JavaScript
 framework **Tailwind CSS** for styling. The project is deployed using **Azure's automatic service**, and the CI/CD
 pipeline is handled by **GitHub Actions** for seamless deployment and continuous integration.
 
+Preview
+
+You can preview the live application at: https://red-sand-09b1d2b10.5.azurestaticapps.net
+
 ### Features
 
 - **Interactive Form**: Users can input their mood, breakfast choice, wake-up time, and the color they are wearing to
