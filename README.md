@@ -21,7 +21,7 @@ deployment.
 
 Please visit the Lab1 [Link](lab-1) to see more details.
 
-### Lab1 - [Link](lab-2)
+### Lab2 - [Link](lab-2)
 
 This lab demonstrates the use of Semantic HTML, CSS for styling (CSS packages allowed, but no frontend frameworks like
 React or Vue.js), and JavaScript for interactivity. The main requirement is to display a subset of data based on user
