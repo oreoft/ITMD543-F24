@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculate Your Fortune</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="script.js"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col">
+<header class="bg-rose-50 text-white p-4 text-center">
+    <button onclick="window.location.href='index.html'">
+        <h1 class="text-lg text-rose-500">Calculate Your Fortune</h1>
+    </button>
+</header>
+<main class="flex-1 p-14 max-w-xl mx-auto bg-white shadow-lg my-5">
+    <section id="result"
+             class="hidden m-8 p-6 bg-gradient-to-r from-rose-500 to-pink-500 text-white rounded-xl shadow-lg">
+        <h2 class="text-3xl font-bold mb-4 text-center">Your Fortune for Today</h2>
+        <p id="fortune-text" class="text-lg text-center leading-relaxed"></p>
+    </section>
+
+    <form id="fortune-form" class="space-y-4">
+        <div>
+            <label for="mood" class="block mb-2 font-semibold">How's your mood today?</label>
+            <select id="mood" class="w-full p-2 border border-gray-300 rounded" required>
+                <option value="">Select</option>
+                <option value="happy">Happy</option>
+                <option value="sad">Sad</option>
+                <option value="neutral">Neutral</option>
+                <option value="excited">Excited</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="breakfast" class="block mb-2 font-semibold">What did you have for breakfast?</label>
+            <select id="breakfast" class="w-full p-2 border border-gray-300 rounded" required>
+                <option value="">Select</option>
+                <option value="eggs">Eggs</option>
+                <option value="cereal">Cereal</option>
+                <option value="toast">Toast</option>
+                <option value="other">Other</option>
+                <option value="nothing">Nothing</option>
+            </select>
+        </div>
+
+        <div>
+            <label class="block mb-2 font-semibold">Are you late today (later than 9AM)?</label>
+            <div class="mb-2">
+                <input type="checkbox" id="lateWake" name="lateWake" value="lateWake">
+                <label for="lateWake">I woke up late</label>
+            </div>
+        </div>
+
+        <div>
+            <label for="color" class="block mb-2 font-semibold">What color are you wearing today?</label>
+            <input type="text" id="color" class="w-full p-2 border border-gray-300 rounded" placeholder="Enter a color"
+                   required>
+        </div>
+
+
+        <section class="flex flex-col items-center">
+            <button type="submit" class="bg-rose-500 text-white py-2 px-4 rounded hover:bg-rose-700">
+                Calculate Fortune
+            </button>
+        </section>
+    </form>
+</main>
+</body>
+</html>
