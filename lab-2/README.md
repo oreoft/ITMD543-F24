@@ -53,7 +53,7 @@ You can preview the live application at: https://red-sand-09b1d2b10.5.azurestati
 
 2. **Navigate to the project directory**:
    ```bash
-   cd lab-2 && cd calculate-your-fortune
+   cd lab-2
    ```
 
 3. **Open the project in a browser**:
