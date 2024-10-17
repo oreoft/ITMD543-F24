@@ -15,6 +15,10 @@ pipeline is handled by **GitHub Actions** for seamless deployment and continuous
 ### Preview
 
 You can preview the live application at: https://red-sand-09b1d2b10.5.azurestaticapps.net
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/3957b69d-fe04-4812-a578-fc21900f224b" alt="image" width="308">
+</div>
+
 
 ### Features
 
