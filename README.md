@@ -29,6 +29,22 @@ selections, such as selecting categories from a list or checkbox.
 
 Please visit the Lab2 [Link](lab-2) to see more details.
 
+### Final Project - [Link](final-project)
+
+This project demonstrates the development of a volunteer activity platform using modern web technologies. The
+application is built with React.js for the frontend and Firebase for data management, focusing on creating an intuitive
+interface for managing volunteer activities at IIT.
+
+Key features include:
+
+- Organization and activity management
+- Real-time updates using Firebase
+- Responsive design with TailwindCSS
+- User authentication and authorization
+
+Please visit the Final Project [Link](final-project) to experience the live demo and see more details about
+implementation.
+
 ## Contact Information
 
 If you have any questions or suggestions, you can reach out to me through the following means:
