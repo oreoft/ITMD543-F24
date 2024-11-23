@@ -2,7 +2,7 @@
 
 ## Online Demo
 
-[Deployed on Vercel](itmd543-f24-fp-git-main-meetyifan-gmailcoms-projects.vercel.app)
+[Deployed on Vercel](https://itmd543-f24-fp.vercel.app)
 
 ## Project Description
 
