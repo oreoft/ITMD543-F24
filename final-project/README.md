@@ -4,6 +4,8 @@
 
 [Deployed on Vercel](https://itmd543-f24-fp.vercel.app)
 
+<img src="https://mypicgogo.oss-cn-hangzhou.aliyuncs.com/tuchuang202412051800376.png" alt="image-20241205180006256" style="zoom:25%;" />
+
 ## Project Description
 
 IIT Community Volunteer Hub is a modern web application designed to connect Illinois Institute of Technology students

@@ -27,7 +27,7 @@ const contentData = {
 };
 
 
-const ChooseUs: React.FC = () => {
+const Impact: React.FC = () => {
     const [activeIndex, setActiveIndex] = useState(0);
     const carouselRef = React.useRef<any>();
 
@@ -126,4 +126,4 @@ const ChooseUs: React.FC = () => {
     );
 };
 
-export default ChooseUs;
+export default Impact;
